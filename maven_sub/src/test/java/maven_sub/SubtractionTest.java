@@ -9,7 +9,7 @@ public class SubtractionTest {
 	Subtraction sub=new Subtraction();
 	@Test
 	public void add_test() {
-		assertEquals(30, sub.add(10, 20));
+		assertEquals(30, sub.add(50, 20));
 	}
 
 }
